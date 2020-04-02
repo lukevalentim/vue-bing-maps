@@ -192,7 +192,9 @@
                         // which will enable the slot and allow any child components to be created and rendered
                         Microsoft.Maps.Events.addOne(map, 'viewchangeend', () => {
                             self.initialized = true;
-                        });
+												});
+												
+												self.registerEvents();
 
                         resolve();
                     }).catch(function(err){
@@ -214,7 +216,7 @@
         },
         mounted(){
             Utils.logger.log('mounted lifecycle hook, rendering map...');
-            this.draw();
+						this.draw();
         },
         beforeDestroy(){
             Utils.logger.log('beforeDestroy lifecycle hook, destroying map...');
