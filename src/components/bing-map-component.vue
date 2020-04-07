@@ -67,6 +67,9 @@
                 for(var prop in source){
                     if(source.hasOwnProperty(prop)){
                         switch(prop){
+														case 'center':
+																target[prop] = BingConversions.toMapLocation(source[prop]);
+																break;
                             case 'navigationBarOrientation':
                                 target[prop] = BingConversions.toNavigationBarOrientation(source[prop]);
                                 break;

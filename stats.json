@@ -2,7 +2,7 @@
   "errors": [],
   "warnings": [],
   "version": "4.29.1",
-  "hash": "251fc38253e3ee622fcf",
+  "hash": "4fd257f5877ac3f706e7",
   "publicPath": "./dist",
   "outputPath": "D:\\Apps\\Bixinhos\\vue-bing-maps\\dist",
   "assetsByChunkName": {
@@ -11,7 +11,7 @@
   "assets": [
     {
       "name": "index.js",
-      "size": 22044,
+      "size": 22090,
       "chunks": [
         0
       ],
@@ -52,14 +52,14 @@
       "rendered": true,
       "initial": true,
       "entry": true,
-      "size": 53694,
+      "size": 53817,
       "names": [
         "main"
       ],
       "files": [
         "index.js"
       ],
-      "hash": "bbbd7dd3cc7a999f27a8",
+      "hash": "a7a941ea575a48acaaf7",
       "siblings": [],
       "parents": [],
       "children": [],
@@ -162,7 +162,7 @@
           "reasons": [
             {
               "moduleId": 6,
-              "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\index.js 592fdba4b7ac9430f1e8f400d21f59ae",
+              "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\index.js 4ddce702ea7abd01a1a3d27a9a51d874",
               "module": "./src/index.js + 27 modules",
               "moduleName": "./src/index.js + 27 modules",
               "type": "harmony side effect evaluation",
@@ -171,7 +171,7 @@
             },
             {
               "moduleId": 6,
-              "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\index.js 592fdba4b7ac9430f1e8f400d21f59ae",
+              "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\index.js 4ddce702ea7abd01a1a3d27a9a51d874",
               "module": "./src/index.js + 27 modules",
               "moduleName": "./src/index.js + 27 modules",
               "type": "harmony import specifier",
@@ -427,11 +427,11 @@
         },
         {
           "id": 6,
-          "identifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\index.js 592fdba4b7ac9430f1e8f400d21f59ae",
+          "identifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\index.js 4ddce702ea7abd01a1a3d27a9a51d874",
           "name": "./src/index.js + 27 modules",
           "index": 0,
           "index2": 33,
-          "size": 33133,
+          "size": 33256,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -623,7 +623,7 @@
                   "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
                   "type": "harmony import specifier",
                   "userRequest": "../config.js",
-                  "loc": "92:23-29"
+                  "loc": "96:23-29"
                 }
               ],
               "usedExports": [
@@ -863,15 +863,6 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=script&lang=js&",
-                  "module": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
-                  "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
-                  "type": "harmony import specifier",
-                  "userRequest": "../utils.js",
-                  "loc": "98:6-11"
-                },
-                {
-                  "moduleId": null,
                   "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\mixins\\component-base.vue?vue&type=script&lang=js&",
                   "module": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/mixins/component-base.vue?vue&type=script&lang=js&",
                   "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/mixins/component-base.vue?vue&type=script&lang=js&",
@@ -886,7 +877,7 @@
                   "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
                   "type": "harmony import specifier",
                   "userRequest": "../utils.js",
-                  "loc": "101:10-15"
+                  "loc": "102:6-11"
                 },
                 {
                   "moduleId": null,
@@ -922,7 +913,7 @@
                   "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
                   "type": "harmony import specifier",
                   "userRequest": "../utils.js",
-                  "loc": "108:12-17"
+                  "loc": "109:10-15"
                 },
                 {
                   "moduleId": null,
@@ -944,6 +935,15 @@
                 },
                 {
                   "moduleId": null,
+                  "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=script&lang=js&",
+                  "module": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
+                  "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
+                  "type": "harmony import specifier",
+                  "userRequest": "../utils.js",
+                  "loc": "112:12-17"
+                },
+                {
+                  "moduleId": null,
                   "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-pushpin-component.vue?vue&type=script&lang=js&",
                   "module": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-pushpin-component.vue?vue&type=script&lang=js&",
                   "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-pushpin-component.vue?vue&type=script&lang=js&",
@@ -953,21 +953,21 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=script&lang=js&",
-                  "module": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
-                  "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
-                  "type": "harmony import specifier",
-                  "userRequest": "../utils.js",
-                  "loc": "114:10-15"
-                },
-                {
-                  "moduleId": null,
                   "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-pushpin-component.vue?vue&type=script&lang=js&",
                   "module": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-pushpin-component.vue?vue&type=script&lang=js&",
                   "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-pushpin-component.vue?vue&type=script&lang=js&",
                   "type": "harmony import specifier",
                   "userRequest": "../utils.js",
                   "loc": "116:8-13"
+                },
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=script&lang=js&",
+                  "module": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
+                  "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
+                  "type": "harmony import specifier",
+                  "userRequest": "../utils.js",
+                  "loc": "118:10-15"
                 },
                 {
                   "moduleId": null,
@@ -1021,16 +1021,7 @@
                   "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
                   "type": "harmony import specifier",
                   "userRequest": "../utils.js",
-                  "loc": "140:30-35"
-                },
-                {
-                  "moduleId": null,
-                  "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=script&lang=js&",
-                  "module": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
-                  "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
-                  "type": "harmony import specifier",
-                  "userRequest": "../utils.js",
-                  "loc": "144:12-17"
+                  "loc": "144:30-35"
                 },
                 {
                   "moduleId": null,
@@ -1057,7 +1048,16 @@
                   "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
                   "type": "harmony import specifier",
                   "userRequest": "../utils.js",
-                  "loc": "153:16-21"
+                  "loc": "152:12-17"
+                },
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=script&lang=js&",
+                  "module": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
+                  "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
+                  "type": "harmony import specifier",
+                  "userRequest": "../utils.js",
+                  "loc": "157:16-21"
                 },
                 {
                   "moduleId": null,
@@ -1070,21 +1070,21 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=script&lang=js&",
-                  "module": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
-                  "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
-                  "type": "harmony import specifier",
-                  "userRequest": "../utils.js",
-                  "loc": "159:16-21"
-                },
-                {
-                  "moduleId": null,
                   "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-pushpin-component.vue?vue&type=script&lang=js&",
                   "module": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-pushpin-component.vue?vue&type=script&lang=js&",
                   "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-pushpin-component.vue?vue&type=script&lang=js&",
                   "type": "harmony import specifier",
                   "userRequest": "../utils.js",
                   "loc": "162:4-9"
+                },
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=script&lang=js&",
+                  "module": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
+                  "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
+                  "type": "harmony import specifier",
+                  "userRequest": "../utils.js",
+                  "loc": "163:16-21"
                 },
                 {
                   "moduleId": null,
@@ -1102,7 +1102,7 @@
                   "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
                   "type": "harmony import specifier",
                   "userRequest": "../utils.js",
-                  "loc": "218:4-9"
+                  "loc": "222:4-9"
                 },
                 {
                   "moduleId": null,
@@ -1111,7 +1111,7 @@
                   "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
                   "type": "harmony import specifier",
                   "userRequest": "../utils.js",
-                  "loc": "223:4-9"
+                  "loc": "227:4-9"
                 },
                 {
                   "moduleId": null,
@@ -1120,7 +1120,7 @@
                   "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
                   "type": "harmony import specifier",
                   "userRequest": "../utils.js",
-                  "loc": "232:4-9"
+                  "loc": "236:4-9"
                 },
                 {
                   "moduleId": null,
@@ -1129,7 +1129,7 @@
                   "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
                   "type": "harmony import specifier",
                   "userRequest": "../utils.js",
-                  "loc": "235:6-11"
+                  "loc": "239:6-11"
                 },
                 {
                   "moduleId": null,
@@ -1138,7 +1138,7 @@
                   "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
                   "type": "harmony import specifier",
                   "userRequest": "../utils.js",
-                  "loc": "238:6-11"
+                  "loc": "242:6-11"
                 },
                 {
                   "moduleId": null,
@@ -1147,7 +1147,7 @@
                   "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
                   "type": "harmony import specifier",
                   "userRequest": "../utils.js",
-                  "loc": "243:4-9"
+                  "loc": "247:4-9"
                 }
               ],
               "usedExports": [
@@ -1266,7 +1266,7 @@
                   "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
                   "type": "harmony import specifier",
                   "userRequest": "../services/bing-conversions.js",
-                  "loc": "60:29-44"
+                  "loc": "59:29-44"
                 },
                 {
                   "moduleId": null,
@@ -1276,6 +1276,15 @@
                   "type": "harmony import specifier",
                   "userRequest": "../services/bing-conversions.js",
                   "loc": "61:33-48"
+                },
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=script&lang=js&",
+                  "module": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
+                  "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
+                  "type": "harmony import specifier",
+                  "userRequest": "../services/bing-conversions.js",
+                  "loc": "64:29-44"
                 },
                 {
                   "moduleId": null,
@@ -1506,7 +1515,7 @@
               ],
               "optimizationBailout": [],
               "depth": 1,
-              "source": "import { render, staticRenderFns } from \"./bing-map-component.vue?vue&type=template&id=19bf80a2&\"\nimport script from \"./bing-map-component.vue?vue&type=script&lang=js&\"\nexport * from \"./bing-map-component.vue?vue&type=script&lang=js&\"\n\n\n/* normalize component */\nimport normalizer from \"!../../node_modules/vue-loader/lib/runtime/componentNormalizer.js\"\nvar component = normalizer(\n  script,\n  render,\n  staticRenderFns,\n  false,\n  null,\n  null,\n  null\n  \n)\n\nexport default component.exports"
+              "source": "import { render, staticRenderFns } from \"./bing-map-component.vue?vue&type=template&id=c8351052&\"\nimport script from \"./bing-map-component.vue?vue&type=script&lang=js&\"\nexport * from \"./bing-map-component.vue?vue&type=script&lang=js&\"\n\n\n/* normalize component */\nimport normalizer from \"!../../node_modules/vue-loader/lib/runtime/componentNormalizer.js\"\nvar component = normalizer(\n  script,\n  render,\n  staticRenderFns,\n  false,\n  null,\n  null,\n  null\n  \n)\n\nexport default component.exports"
             },
             {
               "id": null,
@@ -1852,18 +1861,18 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-pushpin-component.vue",
-                  "module": "./src/components/bing-pushpin-component.vue",
-                  "moduleName": "./src/components/bing-pushpin-component.vue",
+                  "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue",
+                  "module": "./src/components/bing-map-component.vue",
+                  "moduleName": "./src/components/bing-map-component.vue",
                   "type": "harmony side effect evaluation",
                   "userRequest": "!../../node_modules/vue-loader/lib/runtime/componentNormalizer.js",
                   "loc": "7:0-90"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue",
-                  "module": "./src/components/bing-map-component.vue",
-                  "moduleName": "./src/components/bing-map-component.vue",
+                  "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-pushpin-component.vue",
+                  "module": "./src/components/bing-pushpin-component.vue",
+                  "moduleName": "./src/components/bing-pushpin-component.vue",
                   "type": "harmony side effect evaluation",
                   "userRequest": "!../../node_modules/vue-loader/lib/runtime/componentNormalizer.js",
                   "loc": "7:0-90"
@@ -1897,18 +1906,18 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-pushpin-component.vue",
-                  "module": "./src/components/bing-pushpin-component.vue",
-                  "moduleName": "./src/components/bing-pushpin-component.vue",
+                  "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue",
+                  "module": "./src/components/bing-map-component.vue",
+                  "moduleName": "./src/components/bing-map-component.vue",
                   "type": "harmony import specifier",
                   "userRequest": "!../../node_modules/vue-loader/lib/runtime/componentNormalizer.js",
                   "loc": "8:16-26"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue",
-                  "module": "./src/components/bing-map-component.vue",
-                  "moduleName": "./src/components/bing-map-component.vue",
+                  "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-pushpin-component.vue",
+                  "module": "./src/components/bing-pushpin-component.vue",
+                  "moduleName": "./src/components/bing-pushpin-component.vue",
                   "type": "harmony import specifier",
                   "userRequest": "!../../node_modules/vue-loader/lib/runtime/componentNormalizer.js",
                   "loc": "8:16-26"
@@ -1944,8 +1953,8 @@
             },
             {
               "id": null,
-              "identifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\loaders\\pitcher.js??ref--4!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=template&id=19bf80a2&",
-              "name": "./src/components/bing-map-component.vue?vue&type=template&id=19bf80a2&",
+              "identifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\loaders\\pitcher.js??ref--4!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=template&id=c8351052&",
+              "name": "./src/components/bing-map-component.vue?vue&type=template&id=c8351052&",
               "index": 15,
               "index2": 14,
               "size": 216,
@@ -1980,7 +1989,7 @@
                   "module": "./src/components/bing-map-component.vue",
                   "moduleName": "./src/components/bing-map-component.vue",
                   "type": "harmony side effect evaluation",
-                  "userRequest": "./bing-map-component.vue?vue&type=template&id=19bf80a2&",
+                  "userRequest": "./bing-map-component.vue?vue&type=template&id=c8351052&",
                   "loc": "1:0-97"
                 },
                 {
@@ -1989,7 +1998,7 @@
                   "module": "./src/components/bing-map-component.vue",
                   "moduleName": "./src/components/bing-map-component.vue",
                   "type": "harmony import specifier",
-                  "userRequest": "./bing-map-component.vue?vue&type=template&id=19bf80a2&",
+                  "userRequest": "./bing-map-component.vue?vue&type=template&id=c8351052&",
                   "loc": "10:2-8"
                 },
                 {
@@ -1998,7 +2007,7 @@
                   "module": "./src/components/bing-map-component.vue",
                   "moduleName": "./src/components/bing-map-component.vue",
                   "type": "harmony import specifier",
-                  "userRequest": "./bing-map-component.vue?vue&type=template&id=19bf80a2&",
+                  "userRequest": "./bing-map-component.vue?vue&type=template&id=c8351052&",
                   "loc": "11:2-17"
                 }
               ],
@@ -2012,7 +2021,7 @@
               ],
               "optimizationBailout": [],
               "depth": 2,
-              "source": "export * from \"-!../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../node_modules/vue-loader/lib/index.js??vue-loader-options!./bing-map-component.vue?vue&type=template&id=19bf80a2&\""
+              "source": "export * from \"-!../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../node_modules/vue-loader/lib/index.js??vue-loader-options!./bing-map-component.vue?vue&type=template&id=c8351052&\""
             },
             {
               "id": null,
@@ -2632,8 +2641,8 @@
             },
             {
               "id": null,
-              "identifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\loaders\\templateLoader.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=template&id=19bf80a2&",
-              "name": "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=template&id=19bf80a2&",
+              "identifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\loaders\\templateLoader.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=template&id=c8351052&",
+              "name": "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=template&id=c8351052&",
               "index": 16,
               "index2": 13,
               "size": 282,
@@ -2642,9 +2651,9 @@
               "optional": false,
               "prefetched": false,
               "chunks": [],
-              "issuer": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\loaders\\pitcher.js??ref--4!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=template&id=19bf80a2&",
+              "issuer": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\loaders\\pitcher.js??ref--4!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=template&id=c8351052&",
               "issuerId": null,
-              "issuerName": "./src/components/bing-map-component.vue?vue&type=template&id=19bf80a2&",
+              "issuerName": "./src/components/bing-map-component.vue?vue&type=template&id=c8351052&",
               "issuerPath": [
                 {
                   "id": null,
@@ -2658,8 +2667,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\loaders\\pitcher.js??ref--4!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=template&id=19bf80a2&",
-                  "name": "./src/components/bing-map-component.vue?vue&type=template&id=19bf80a2&"
+                  "identifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\loaders\\pitcher.js??ref--4!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=template&id=c8351052&",
+                  "name": "./src/components/bing-map-component.vue?vue&type=template&id=c8351052&"
                 }
               ],
               "failed": false,
@@ -2669,20 +2678,20 @@
               "reasons": [
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\loaders\\pitcher.js??ref--4!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=template&id=19bf80a2&",
-                  "module": "./src/components/bing-map-component.vue?vue&type=template&id=19bf80a2&",
-                  "moduleName": "./src/components/bing-map-component.vue?vue&type=template&id=19bf80a2&",
+                  "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\loaders\\pitcher.js??ref--4!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=template&id=c8351052&",
+                  "module": "./src/components/bing-map-component.vue?vue&type=template&id=c8351052&",
+                  "moduleName": "./src/components/bing-map-component.vue?vue&type=template&id=c8351052&",
                   "type": "harmony side effect evaluation",
-                  "userRequest": "-!../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../node_modules/vue-loader/lib/index.js??vue-loader-options!./bing-map-component.vue?vue&type=template&id=19bf80a2&",
+                  "userRequest": "-!../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../node_modules/vue-loader/lib/index.js??vue-loader-options!./bing-map-component.vue?vue&type=template&id=c8351052&",
                   "loc": "1:0-216"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\loaders\\pitcher.js??ref--4!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=template&id=19bf80a2&",
-                  "module": "./src/components/bing-map-component.vue?vue&type=template&id=19bf80a2&",
-                  "moduleName": "./src/components/bing-map-component.vue?vue&type=template&id=19bf80a2&",
+                  "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\loaders\\pitcher.js??ref--4!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=template&id=c8351052&",
+                  "module": "./src/components/bing-map-component.vue?vue&type=template&id=c8351052&",
+                  "moduleName": "./src/components/bing-map-component.vue?vue&type=template&id=c8351052&",
                   "type": "harmony export imported specifier",
-                  "userRequest": "-!../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../node_modules/vue-loader/lib/index.js??vue-loader-options!./bing-map-component.vue?vue&type=template&id=19bf80a2&",
+                  "userRequest": "-!../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../node_modules/vue-loader/lib/index.js??vue-loader-options!./bing-map-component.vue?vue&type=template&id=c8351052&",
                   "loc": "1:0-216"
                 }
               ],
@@ -2704,7 +2713,7 @@
               "name": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
               "index": 18,
               "index2": 15,
-              "size": 6983,
+              "size": 7106,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -2780,7 +2789,7 @@
               ],
               "optimizationBailout": [],
               "depth": 3,
-              "source": "//\n//\n//\n//\n//\n//\n//\n//\nconst mapEvents = Object.freeze(['click', 'dblclick', 'mapresize', 'maptypechanged', 'mousedown', 'mousemove', 'mouseout', 'mouseover', 'mouseup', 'mousewheel', 'rightclick', 'viewchange', 'viewchangeend', 'viewchangestart']);\nimport ComponentBase from '../mixins/component-base.vue';\nimport Config from '../config.js';\nimport Utils from '../utils.js';\nimport BingConversions from '../services/bing-conversions.js';\nexport default {\n  name: 'bing-map',\n  mixins: [ComponentBase],\n  props: {\n    credentials: {\n      type: String,\n      required: true\n    },\n    options: {\n      type: Object,\n      required: false,\n\n      default() {\n        return {};\n      }\n\n    }\n  },\n\n  data() {\n    return {\n      itemType: 'map',\n      rendering: false,\n      apiLoaded: false,\n      allowedEvents: mapEvents\n    };\n  },\n\n  computed: {\n    mapOptions() {\n      if (!this.apiLoaded) {\n        return {};\n      }\n\n      let source = this.options;\n      let target = {};\n\n      for (var prop in source) {\n        if (source.hasOwnProperty(prop)) {\n          switch (prop) {\n            case 'navigationBarOrientation':\n              target[prop] = BingConversions.toNavigationBarOrientation(source[prop]);\n              break;\n\n            case 'mapTypeId':\n            case 'supportedMapTypes':\n              target[prop] = BingConversions.toMapTypeId(source[prop]);\n              break;\n\n            default:\n              target[prop] = source[prop];\n              break;\n          }\n        }\n      }\n\n      return target;\n    }\n\n  },\n\n  provide() {\n    return {\n      getMap: this.getItem,\n      loadModule: this.loadModule\n    };\n  },\n\n  methods: {\n    libLoaded() {\n      return !!(window.Microsoft && window.Microsoft.Maps && window.Microsoft.Maps.Map);\n    },\n\n    getInitCallbackFnName() {\n      return 'mapInitializeCallback_' + this._uid;\n    },\n\n    getMapApiUrl() {\n      var bingMapUrl = Config.bingApiUrl;\n      return bingMapUrl.replace('{callback}', this.getInitCallbackFnName()).replace('{credentials}', this.credentials);\n    },\n\n    loadApi() {\n      let self = this;\n      Utils.logger.log('loading api...');\n      return new Promise((resolve, reject) => {\n        if (self.libLoaded()) {\n          Utils.logger.log('api already loaded!');\n          self.apiLoaded = true;\n          resolve();\n        } else {\n          Utils.logger.log('setting map init callback');\n\n          window[self.getInitCallbackFnName()] = function () {\n            Utils.logger.log('map init callback: ', self.getInitCallbackFnName());\n            delete window[self.getInitCallbackFnName()];\n            self.apiLoaded = true;\n            resolve();\n          };\n\n          Utils.logger.log('adding bing api to document head url: ', self.getMapApiUrl());\n          let tag = document.createElement('script');\n          tag.type = 'text/javascript';\n          tag.src = self.getMapApiUrl();\n          tag.async = true;\n          tag.defer = true;\n\n          tag.onerror = function (event) {\n            delete window[self.getInitCallbackFnName()];\n            reject(event);\n          };\n\n          document.head.append(tag);\n        }\n      });\n    },\n\n    loadModule(name) {\n      let self = this;\n      let normalizedName = (name || '').toLowerCase().trim();\n      return new Promise((resolve, reject) => {\n        if (!normalizedName) {\n          reject('A module name must be specified');\n        } else if (!self.libLoaded()) {\n          reject('This function can only be called after the Bing Map library has been loaded');\n        } else {\n          let loadedModules = Utils.loadedModules;\n\n          if (!loadedModules) {\n            loadedModules = [];\n            Utils.loadedModules = loadedModules;\n          }\n\n          if (loadedModules.item.indexOf(normalizedName) > -1) {\n            Utils.logger.log('Map module ' + normalizedName + ' already loaded, resolving...');\n            resolve();\n          } else {\n            Microsoft.Maps.loadModule(name, {\n              callback() {\n                Utils.logger.log('Map module ' + normalizedName + ' successfully loaded!');\n                loadedModules.item.push(normalizedName);\n                resolve();\n              },\n\n              errorCallback(message) {\n                Utils.logger.warn('Map module ' + normalizedName + ' loading failed!');\n                reject(message);\n              }\n\n            });\n          }\n        }\n      });\n    },\n\n    draw() {\n      this.render();\n    },\n\n    render() {\n      let self = this;\n      return new Promise((resolve, reject) => {\n        self.rendering = this;\n        let map = self.getItem(); // if the map already exists, destroy it first so we can re-render\n        // we are doing this when we add a watcher on the mapOptions property\n        // since many of the map options can only be set via the Bing Map Constructor\n        // TODO: add property checking to the mapOptions watcher to only re-render map if\n        //       an option changed that is required in the map constructor\n\n        if (map) {\n          self.destroy();\n        }\n\n        Promise.all([self.loadApi(), self.$nextTick()]).then(() => {\n          map = self.setItem(new Microsoft.Maps.Map(self.$refs.mapContainer, self.mapOptions)); // bing maps will fire the viewchangeend event when the map is first drawn\n          // let's listen for this event to trigger the setting of our initialized property\n          // which will enable the slot and allow any child components to be created and rendered\n\n          Microsoft.Maps.Events.addOne(map, 'viewchangeend', () => {\n            self.initialized = true;\n          });\n          self.registerEvents();\n          resolve();\n        }).catch(function (err) {\n          reject(err);\n        }).finally(() => {\n          self.rendering = false;\n        });\n      });\n    },\n\n    destroy() {\n      this.initialized = false;\n      let map = this.getItem();\n\n      if (map && typeof map.dispose === 'function') {\n        map.dispose();\n        this.setItem(null);\n      }\n    }\n\n  },\n\n  mounted() {\n    Utils.logger.log('mounted lifecycle hook, rendering map...');\n    this.draw();\n  },\n\n  beforeDestroy() {\n    Utils.logger.log('beforeDestroy lifecycle hook, destroying map...');\n    let self = this;\n    self.destroying = true;\n    self.unRegisterEvents().then(self.destroy).finally(() => {\n      self.destroying = false;\n    });\n  },\n\n  activated() {\n    Utils.logger.log('map activated lifecycle hook, checking criteria for rendering map...');\n\n    if (!this.rendering && !this.getItem()) {\n      Utils.logger.log('map component activated from deactivated state, rendering map...');\n      this.draw();\n    } else {\n      Utils.logger.log('map component activated from initial mounted stated, no action performed here since already performed in mounted hook');\n    }\n  },\n\n  deactivated() {\n    Utils.logger.log('deactivated lifecyle hook, destroying map...');\n    this.unRegisterEvents().then(this.destroy);\n  }\n\n};"
+              "source": "//\n//\n//\n//\n//\n//\n//\n//\nconst mapEvents = Object.freeze(['click', 'dblclick', 'mapresize', 'maptypechanged', 'mousedown', 'mousemove', 'mouseout', 'mouseover', 'mouseup', 'mousewheel', 'rightclick', 'viewchange', 'viewchangeend', 'viewchangestart']);\nimport ComponentBase from '../mixins/component-base.vue';\nimport Config from '../config.js';\nimport Utils from '../utils.js';\nimport BingConversions from '../services/bing-conversions.js';\nexport default {\n  name: 'bing-map',\n  mixins: [ComponentBase],\n  props: {\n    credentials: {\n      type: String,\n      required: true\n    },\n    options: {\n      type: Object,\n      required: false,\n\n      default() {\n        return {};\n      }\n\n    }\n  },\n\n  data() {\n    return {\n      itemType: 'map',\n      rendering: false,\n      apiLoaded: false,\n      allowedEvents: mapEvents\n    };\n  },\n\n  computed: {\n    mapOptions() {\n      if (!this.apiLoaded) {\n        return {};\n      }\n\n      let source = this.options;\n      let target = {};\n\n      for (var prop in source) {\n        if (source.hasOwnProperty(prop)) {\n          switch (prop) {\n            case 'center':\n              target[prop] = BingConversions.toMapLocation(source[prop]);\n              break;\n\n            case 'navigationBarOrientation':\n              target[prop] = BingConversions.toNavigationBarOrientation(source[prop]);\n              break;\n\n            case 'mapTypeId':\n            case 'supportedMapTypes':\n              target[prop] = BingConversions.toMapTypeId(source[prop]);\n              break;\n\n            default:\n              target[prop] = source[prop];\n              break;\n          }\n        }\n      }\n\n      return target;\n    }\n\n  },\n\n  provide() {\n    return {\n      getMap: this.getItem,\n      loadModule: this.loadModule\n    };\n  },\n\n  methods: {\n    libLoaded() {\n      return !!(window.Microsoft && window.Microsoft.Maps && window.Microsoft.Maps.Map);\n    },\n\n    getInitCallbackFnName() {\n      return 'mapInitializeCallback_' + this._uid;\n    },\n\n    getMapApiUrl() {\n      var bingMapUrl = Config.bingApiUrl;\n      return bingMapUrl.replace('{callback}', this.getInitCallbackFnName()).replace('{credentials}', this.credentials);\n    },\n\n    loadApi() {\n      let self = this;\n      Utils.logger.log('loading api...');\n      return new Promise((resolve, reject) => {\n        if (self.libLoaded()) {\n          Utils.logger.log('api already loaded!');\n          self.apiLoaded = true;\n          resolve();\n        } else {\n          Utils.logger.log('setting map init callback');\n\n          window[self.getInitCallbackFnName()] = function () {\n            Utils.logger.log('map init callback: ', self.getInitCallbackFnName());\n            delete window[self.getInitCallbackFnName()];\n            self.apiLoaded = true;\n            resolve();\n          };\n\n          Utils.logger.log('adding bing api to document head url: ', self.getMapApiUrl());\n          let tag = document.createElement('script');\n          tag.type = 'text/javascript';\n          tag.src = self.getMapApiUrl();\n          tag.async = true;\n          tag.defer = true;\n\n          tag.onerror = function (event) {\n            delete window[self.getInitCallbackFnName()];\n            reject(event);\n          };\n\n          document.head.append(tag);\n        }\n      });\n    },\n\n    loadModule(name) {\n      let self = this;\n      let normalizedName = (name || '').toLowerCase().trim();\n      return new Promise((resolve, reject) => {\n        if (!normalizedName) {\n          reject('A module name must be specified');\n        } else if (!self.libLoaded()) {\n          reject('This function can only be called after the Bing Map library has been loaded');\n        } else {\n          let loadedModules = Utils.loadedModules;\n\n          if (!loadedModules) {\n            loadedModules = [];\n            Utils.loadedModules = loadedModules;\n          }\n\n          if (loadedModules.item.indexOf(normalizedName) > -1) {\n            Utils.logger.log('Map module ' + normalizedName + ' already loaded, resolving...');\n            resolve();\n          } else {\n            Microsoft.Maps.loadModule(name, {\n              callback() {\n                Utils.logger.log('Map module ' + normalizedName + ' successfully loaded!');\n                loadedModules.item.push(normalizedName);\n                resolve();\n              },\n\n              errorCallback(message) {\n                Utils.logger.warn('Map module ' + normalizedName + ' loading failed!');\n                reject(message);\n              }\n\n            });\n          }\n        }\n      });\n    },\n\n    draw() {\n      this.render();\n    },\n\n    render() {\n      let self = this;\n      return new Promise((resolve, reject) => {\n        self.rendering = this;\n        let map = self.getItem(); // if the map already exists, destroy it first so we can re-render\n        // we are doing this when we add a watcher on the mapOptions property\n        // since many of the map options can only be set via the Bing Map Constructor\n        // TODO: add property checking to the mapOptions watcher to only re-render map if\n        //       an option changed that is required in the map constructor\n\n        if (map) {\n          self.destroy();\n        }\n\n        Promise.all([self.loadApi(), self.$nextTick()]).then(() => {\n          map = self.setItem(new Microsoft.Maps.Map(self.$refs.mapContainer, self.mapOptions)); // bing maps will fire the viewchangeend event when the map is first drawn\n          // let's listen for this event to trigger the setting of our initialized property\n          // which will enable the slot and allow any child components to be created and rendered\n\n          Microsoft.Maps.Events.addOne(map, 'viewchangeend', () => {\n            self.initialized = true;\n          });\n          self.registerEvents();\n          resolve();\n        }).catch(function (err) {\n          reject(err);\n        }).finally(() => {\n          self.rendering = false;\n        });\n      });\n    },\n\n    destroy() {\n      this.initialized = false;\n      let map = this.getItem();\n\n      if (map && typeof map.dispose === 'function') {\n        map.dispose();\n        this.setItem(null);\n      }\n    }\n\n  },\n\n  mounted() {\n    Utils.logger.log('mounted lifecycle hook, rendering map...');\n    this.draw();\n  },\n\n  beforeDestroy() {\n    Utils.logger.log('beforeDestroy lifecycle hook, destroying map...');\n    let self = this;\n    self.destroying = true;\n    self.unRegisterEvents().then(self.destroy).finally(() => {\n      self.destroying = false;\n    });\n  },\n\n  activated() {\n    Utils.logger.log('map activated lifecycle hook, checking criteria for rendering map...');\n\n    if (!this.rendering && !this.getItem()) {\n      Utils.logger.log('map component activated from deactivated state, rendering map...');\n      this.draw();\n    } else {\n      Utils.logger.log('map component activated from initial mounted stated, no action performed here since already performed in mounted hook');\n    }\n  },\n\n  deactivated() {\n    Utils.logger.log('deactivated lifecyle hook, destroying map...');\n    this.unRegisterEvents().then(this.destroy);\n  }\n\n};"
             },
             {
               "id": null,
@@ -3353,7 +3362,7 @@
       "reasons": [
         {
           "moduleId": 6,
-          "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\index.js 592fdba4b7ac9430f1e8f400d21f59ae",
+          "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\index.js 4ddce702ea7abd01a1a3d27a9a51d874",
           "module": "./src/index.js + 27 modules",
           "moduleName": "./src/index.js + 27 modules",
           "type": "harmony side effect evaluation",
@@ -3362,7 +3371,7 @@
         },
         {
           "moduleId": 6,
-          "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\index.js 592fdba4b7ac9430f1e8f400d21f59ae",
+          "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\index.js 4ddce702ea7abd01a1a3d27a9a51d874",
           "module": "./src/index.js + 27 modules",
           "moduleName": "./src/index.js + 27 modules",
           "type": "harmony import specifier",
@@ -3618,11 +3627,11 @@
     },
     {
       "id": 6,
-      "identifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\index.js 592fdba4b7ac9430f1e8f400d21f59ae",
+      "identifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\index.js 4ddce702ea7abd01a1a3d27a9a51d874",
       "name": "./src/index.js + 27 modules",
       "index": 0,
       "index2": 33,
-      "size": 33133,
+      "size": 33256,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -3814,7 +3823,7 @@
               "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
               "type": "harmony import specifier",
               "userRequest": "../config.js",
-              "loc": "92:23-29"
+              "loc": "96:23-29"
             }
           ],
           "usedExports": [
@@ -4054,15 +4063,6 @@
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=script&lang=js&",
-              "module": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
-              "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
-              "type": "harmony import specifier",
-              "userRequest": "../utils.js",
-              "loc": "98:6-11"
-            },
-            {
-              "moduleId": null,
               "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\mixins\\component-base.vue?vue&type=script&lang=js&",
               "module": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/mixins/component-base.vue?vue&type=script&lang=js&",
               "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/mixins/component-base.vue?vue&type=script&lang=js&",
@@ -4077,7 +4077,7 @@
               "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
               "type": "harmony import specifier",
               "userRequest": "../utils.js",
-              "loc": "101:10-15"
+              "loc": "102:6-11"
             },
             {
               "moduleId": null,
@@ -4113,7 +4113,7 @@
               "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
               "type": "harmony import specifier",
               "userRequest": "../utils.js",
-              "loc": "108:12-17"
+              "loc": "109:10-15"
             },
             {
               "moduleId": null,
@@ -4135,6 +4135,15 @@
             },
             {
               "moduleId": null,
+              "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=script&lang=js&",
+              "module": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
+              "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
+              "type": "harmony import specifier",
+              "userRequest": "../utils.js",
+              "loc": "112:12-17"
+            },
+            {
+              "moduleId": null,
               "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-pushpin-component.vue?vue&type=script&lang=js&",
               "module": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-pushpin-component.vue?vue&type=script&lang=js&",
               "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-pushpin-component.vue?vue&type=script&lang=js&",
@@ -4144,21 +4153,21 @@
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=script&lang=js&",
-              "module": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
-              "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
-              "type": "harmony import specifier",
-              "userRequest": "../utils.js",
-              "loc": "114:10-15"
-            },
-            {
-              "moduleId": null,
               "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-pushpin-component.vue?vue&type=script&lang=js&",
               "module": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-pushpin-component.vue?vue&type=script&lang=js&",
               "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-pushpin-component.vue?vue&type=script&lang=js&",
               "type": "harmony import specifier",
               "userRequest": "../utils.js",
               "loc": "116:8-13"
+            },
+            {
+              "moduleId": null,
+              "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=script&lang=js&",
+              "module": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
+              "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
+              "type": "harmony import specifier",
+              "userRequest": "../utils.js",
+              "loc": "118:10-15"
             },
             {
               "moduleId": null,
@@ -4212,16 +4221,7 @@
               "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
               "type": "harmony import specifier",
               "userRequest": "../utils.js",
-              "loc": "140:30-35"
-            },
-            {
-              "moduleId": null,
-              "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=script&lang=js&",
-              "module": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
-              "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
-              "type": "harmony import specifier",
-              "userRequest": "../utils.js",
-              "loc": "144:12-17"
+              "loc": "144:30-35"
             },
             {
               "moduleId": null,
@@ -4248,7 +4248,16 @@
               "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
               "type": "harmony import specifier",
               "userRequest": "../utils.js",
-              "loc": "153:16-21"
+              "loc": "152:12-17"
+            },
+            {
+              "moduleId": null,
+              "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=script&lang=js&",
+              "module": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
+              "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
+              "type": "harmony import specifier",
+              "userRequest": "../utils.js",
+              "loc": "157:16-21"
             },
             {
               "moduleId": null,
@@ -4261,21 +4270,21 @@
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=script&lang=js&",
-              "module": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
-              "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
-              "type": "harmony import specifier",
-              "userRequest": "../utils.js",
-              "loc": "159:16-21"
-            },
-            {
-              "moduleId": null,
               "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-pushpin-component.vue?vue&type=script&lang=js&",
               "module": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-pushpin-component.vue?vue&type=script&lang=js&",
               "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-pushpin-component.vue?vue&type=script&lang=js&",
               "type": "harmony import specifier",
               "userRequest": "../utils.js",
               "loc": "162:4-9"
+            },
+            {
+              "moduleId": null,
+              "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=script&lang=js&",
+              "module": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
+              "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
+              "type": "harmony import specifier",
+              "userRequest": "../utils.js",
+              "loc": "163:16-21"
             },
             {
               "moduleId": null,
@@ -4293,7 +4302,7 @@
               "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
               "type": "harmony import specifier",
               "userRequest": "../utils.js",
-              "loc": "218:4-9"
+              "loc": "222:4-9"
             },
             {
               "moduleId": null,
@@ -4302,7 +4311,7 @@
               "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
               "type": "harmony import specifier",
               "userRequest": "../utils.js",
-              "loc": "223:4-9"
+              "loc": "227:4-9"
             },
             {
               "moduleId": null,
@@ -4311,7 +4320,7 @@
               "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
               "type": "harmony import specifier",
               "userRequest": "../utils.js",
-              "loc": "232:4-9"
+              "loc": "236:4-9"
             },
             {
               "moduleId": null,
@@ -4320,7 +4329,7 @@
               "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
               "type": "harmony import specifier",
               "userRequest": "../utils.js",
-              "loc": "235:6-11"
+              "loc": "239:6-11"
             },
             {
               "moduleId": null,
@@ -4329,7 +4338,7 @@
               "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
               "type": "harmony import specifier",
               "userRequest": "../utils.js",
-              "loc": "238:6-11"
+              "loc": "242:6-11"
             },
             {
               "moduleId": null,
@@ -4338,7 +4347,7 @@
               "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
               "type": "harmony import specifier",
               "userRequest": "../utils.js",
-              "loc": "243:4-9"
+              "loc": "247:4-9"
             }
           ],
           "usedExports": [
@@ -4457,7 +4466,7 @@
               "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
               "type": "harmony import specifier",
               "userRequest": "../services/bing-conversions.js",
-              "loc": "60:29-44"
+              "loc": "59:29-44"
             },
             {
               "moduleId": null,
@@ -4467,6 +4476,15 @@
               "type": "harmony import specifier",
               "userRequest": "../services/bing-conversions.js",
               "loc": "61:33-48"
+            },
+            {
+              "moduleId": null,
+              "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\babel-loader\\lib\\index.js?cacheDirectory=true!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=script&lang=js&",
+              "module": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
+              "moduleName": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
+              "type": "harmony import specifier",
+              "userRequest": "../services/bing-conversions.js",
+              "loc": "64:29-44"
             },
             {
               "moduleId": null,
@@ -4697,7 +4715,7 @@
           ],
           "optimizationBailout": [],
           "depth": 1,
-          "source": "import { render, staticRenderFns } from \"./bing-map-component.vue?vue&type=template&id=19bf80a2&\"\nimport script from \"./bing-map-component.vue?vue&type=script&lang=js&\"\nexport * from \"./bing-map-component.vue?vue&type=script&lang=js&\"\n\n\n/* normalize component */\nimport normalizer from \"!../../node_modules/vue-loader/lib/runtime/componentNormalizer.js\"\nvar component = normalizer(\n  script,\n  render,\n  staticRenderFns,\n  false,\n  null,\n  null,\n  null\n  \n)\n\nexport default component.exports"
+          "source": "import { render, staticRenderFns } from \"./bing-map-component.vue?vue&type=template&id=c8351052&\"\nimport script from \"./bing-map-component.vue?vue&type=script&lang=js&\"\nexport * from \"./bing-map-component.vue?vue&type=script&lang=js&\"\n\n\n/* normalize component */\nimport normalizer from \"!../../node_modules/vue-loader/lib/runtime/componentNormalizer.js\"\nvar component = normalizer(\n  script,\n  render,\n  staticRenderFns,\n  false,\n  null,\n  null,\n  null\n  \n)\n\nexport default component.exports"
         },
         {
           "id": null,
@@ -5043,18 +5061,18 @@
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-pushpin-component.vue",
-              "module": "./src/components/bing-pushpin-component.vue",
-              "moduleName": "./src/components/bing-pushpin-component.vue",
+              "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue",
+              "module": "./src/components/bing-map-component.vue",
+              "moduleName": "./src/components/bing-map-component.vue",
               "type": "harmony side effect evaluation",
               "userRequest": "!../../node_modules/vue-loader/lib/runtime/componentNormalizer.js",
               "loc": "7:0-90"
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue",
-              "module": "./src/components/bing-map-component.vue",
-              "moduleName": "./src/components/bing-map-component.vue",
+              "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-pushpin-component.vue",
+              "module": "./src/components/bing-pushpin-component.vue",
+              "moduleName": "./src/components/bing-pushpin-component.vue",
               "type": "harmony side effect evaluation",
               "userRequest": "!../../node_modules/vue-loader/lib/runtime/componentNormalizer.js",
               "loc": "7:0-90"
@@ -5088,18 +5106,18 @@
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-pushpin-component.vue",
-              "module": "./src/components/bing-pushpin-component.vue",
-              "moduleName": "./src/components/bing-pushpin-component.vue",
+              "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue",
+              "module": "./src/components/bing-map-component.vue",
+              "moduleName": "./src/components/bing-map-component.vue",
               "type": "harmony import specifier",
               "userRequest": "!../../node_modules/vue-loader/lib/runtime/componentNormalizer.js",
               "loc": "8:16-26"
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue",
-              "module": "./src/components/bing-map-component.vue",
-              "moduleName": "./src/components/bing-map-component.vue",
+              "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-pushpin-component.vue",
+              "module": "./src/components/bing-pushpin-component.vue",
+              "moduleName": "./src/components/bing-pushpin-component.vue",
               "type": "harmony import specifier",
               "userRequest": "!../../node_modules/vue-loader/lib/runtime/componentNormalizer.js",
               "loc": "8:16-26"
@@ -5135,8 +5153,8 @@
         },
         {
           "id": null,
-          "identifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\loaders\\pitcher.js??ref--4!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=template&id=19bf80a2&",
-          "name": "./src/components/bing-map-component.vue?vue&type=template&id=19bf80a2&",
+          "identifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\loaders\\pitcher.js??ref--4!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=template&id=c8351052&",
+          "name": "./src/components/bing-map-component.vue?vue&type=template&id=c8351052&",
           "index": 15,
           "index2": 14,
           "size": 216,
@@ -5171,7 +5189,7 @@
               "module": "./src/components/bing-map-component.vue",
               "moduleName": "./src/components/bing-map-component.vue",
               "type": "harmony side effect evaluation",
-              "userRequest": "./bing-map-component.vue?vue&type=template&id=19bf80a2&",
+              "userRequest": "./bing-map-component.vue?vue&type=template&id=c8351052&",
               "loc": "1:0-97"
             },
             {
@@ -5180,7 +5198,7 @@
               "module": "./src/components/bing-map-component.vue",
               "moduleName": "./src/components/bing-map-component.vue",
               "type": "harmony import specifier",
-              "userRequest": "./bing-map-component.vue?vue&type=template&id=19bf80a2&",
+              "userRequest": "./bing-map-component.vue?vue&type=template&id=c8351052&",
               "loc": "10:2-8"
             },
             {
@@ -5189,7 +5207,7 @@
               "module": "./src/components/bing-map-component.vue",
               "moduleName": "./src/components/bing-map-component.vue",
               "type": "harmony import specifier",
-              "userRequest": "./bing-map-component.vue?vue&type=template&id=19bf80a2&",
+              "userRequest": "./bing-map-component.vue?vue&type=template&id=c8351052&",
               "loc": "11:2-17"
             }
           ],
@@ -5203,7 +5221,7 @@
           ],
           "optimizationBailout": [],
           "depth": 2,
-          "source": "export * from \"-!../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../node_modules/vue-loader/lib/index.js??vue-loader-options!./bing-map-component.vue?vue&type=template&id=19bf80a2&\""
+          "source": "export * from \"-!../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../node_modules/vue-loader/lib/index.js??vue-loader-options!./bing-map-component.vue?vue&type=template&id=c8351052&\""
         },
         {
           "id": null,
@@ -5823,8 +5841,8 @@
         },
         {
           "id": null,
-          "identifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\loaders\\templateLoader.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=template&id=19bf80a2&",
-          "name": "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=template&id=19bf80a2&",
+          "identifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\loaders\\templateLoader.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=template&id=c8351052&",
+          "name": "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=template&id=c8351052&",
           "index": 16,
           "index2": 13,
           "size": 282,
@@ -5833,9 +5851,9 @@
           "optional": false,
           "prefetched": false,
           "chunks": [],
-          "issuer": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\loaders\\pitcher.js??ref--4!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=template&id=19bf80a2&",
+          "issuer": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\loaders\\pitcher.js??ref--4!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=template&id=c8351052&",
           "issuerId": null,
-          "issuerName": "./src/components/bing-map-component.vue?vue&type=template&id=19bf80a2&",
+          "issuerName": "./src/components/bing-map-component.vue?vue&type=template&id=c8351052&",
           "issuerPath": [
             {
               "id": null,
@@ -5849,8 +5867,8 @@
             },
             {
               "id": null,
-              "identifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\loaders\\pitcher.js??ref--4!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=template&id=19bf80a2&",
-              "name": "./src/components/bing-map-component.vue?vue&type=template&id=19bf80a2&"
+              "identifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\loaders\\pitcher.js??ref--4!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=template&id=c8351052&",
+              "name": "./src/components/bing-map-component.vue?vue&type=template&id=c8351052&"
             }
           ],
           "failed": false,
@@ -5860,20 +5878,20 @@
           "reasons": [
             {
               "moduleId": null,
-              "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\loaders\\pitcher.js??ref--4!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=template&id=19bf80a2&",
-              "module": "./src/components/bing-map-component.vue?vue&type=template&id=19bf80a2&",
-              "moduleName": "./src/components/bing-map-component.vue?vue&type=template&id=19bf80a2&",
+              "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\loaders\\pitcher.js??ref--4!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=template&id=c8351052&",
+              "module": "./src/components/bing-map-component.vue?vue&type=template&id=c8351052&",
+              "moduleName": "./src/components/bing-map-component.vue?vue&type=template&id=c8351052&",
               "type": "harmony side effect evaluation",
-              "userRequest": "-!../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../node_modules/vue-loader/lib/index.js??vue-loader-options!./bing-map-component.vue?vue&type=template&id=19bf80a2&",
+              "userRequest": "-!../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../node_modules/vue-loader/lib/index.js??vue-loader-options!./bing-map-component.vue?vue&type=template&id=c8351052&",
               "loc": "1:0-216"
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\loaders\\pitcher.js??ref--4!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=template&id=19bf80a2&",
-              "module": "./src/components/bing-map-component.vue?vue&type=template&id=19bf80a2&",
-              "moduleName": "./src/components/bing-map-component.vue?vue&type=template&id=19bf80a2&",
+              "moduleIdentifier": "D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\loaders\\pitcher.js??ref--4!D:\\Apps\\Bixinhos\\vue-bing-maps\\node_modules\\vue-loader\\lib\\index.js??vue-loader-options!D:\\Apps\\Bixinhos\\vue-bing-maps\\src\\components\\bing-map-component.vue?vue&type=template&id=c8351052&",
+              "module": "./src/components/bing-map-component.vue?vue&type=template&id=c8351052&",
+              "moduleName": "./src/components/bing-map-component.vue?vue&type=template&id=c8351052&",
               "type": "harmony export imported specifier",
-              "userRequest": "-!../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../node_modules/vue-loader/lib/index.js??vue-loader-options!./bing-map-component.vue?vue&type=template&id=19bf80a2&",
+              "userRequest": "-!../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../node_modules/vue-loader/lib/index.js??vue-loader-options!./bing-map-component.vue?vue&type=template&id=c8351052&",
               "loc": "1:0-216"
             }
           ],
@@ -5895,7 +5913,7 @@
           "name": "./node_modules/babel-loader/lib?cacheDirectory=true!./node_modules/vue-loader/lib??vue-loader-options!./src/components/bing-map-component.vue?vue&type=script&lang=js&",
           "index": 18,
           "index2": 15,
-          "size": 6983,
+          "size": 7106,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -5971,7 +5989,7 @@
           ],
           "optimizationBailout": [],
           "depth": 3,
-          "source": "//\n//\n//\n//\n//\n//\n//\n//\nconst mapEvents = Object.freeze(['click', 'dblclick', 'mapresize', 'maptypechanged', 'mousedown', 'mousemove', 'mouseout', 'mouseover', 'mouseup', 'mousewheel', 'rightclick', 'viewchange', 'viewchangeend', 'viewchangestart']);\nimport ComponentBase from '../mixins/component-base.vue';\nimport Config from '../config.js';\nimport Utils from '../utils.js';\nimport BingConversions from '../services/bing-conversions.js';\nexport default {\n  name: 'bing-map',\n  mixins: [ComponentBase],\n  props: {\n    credentials: {\n      type: String,\n      required: true\n    },\n    options: {\n      type: Object,\n      required: false,\n\n      default() {\n        return {};\n      }\n\n    }\n  },\n\n  data() {\n    return {\n      itemType: 'map',\n      rendering: false,\n      apiLoaded: false,\n      allowedEvents: mapEvents\n    };\n  },\n\n  computed: {\n    mapOptions() {\n      if (!this.apiLoaded) {\n        return {};\n      }\n\n      let source = this.options;\n      let target = {};\n\n      for (var prop in source) {\n        if (source.hasOwnProperty(prop)) {\n          switch (prop) {\n            case 'navigationBarOrientation':\n              target[prop] = BingConversions.toNavigationBarOrientation(source[prop]);\n              break;\n\n            case 'mapTypeId':\n            case 'supportedMapTypes':\n              target[prop] = BingConversions.toMapTypeId(source[prop]);\n              break;\n\n            default:\n              target[prop] = source[prop];\n              break;\n          }\n        }\n      }\n\n      return target;\n    }\n\n  },\n\n  provide() {\n    return {\n      getMap: this.getItem,\n      loadModule: this.loadModule\n    };\n  },\n\n  methods: {\n    libLoaded() {\n      return !!(window.Microsoft && window.Microsoft.Maps && window.Microsoft.Maps.Map);\n    },\n\n    getInitCallbackFnName() {\n      return 'mapInitializeCallback_' + this._uid;\n    },\n\n    getMapApiUrl() {\n      var bingMapUrl = Config.bingApiUrl;\n      return bingMapUrl.replace('{callback}', this.getInitCallbackFnName()).replace('{credentials}', this.credentials);\n    },\n\n    loadApi() {\n      let self = this;\n      Utils.logger.log('loading api...');\n      return new Promise((resolve, reject) => {\n        if (self.libLoaded()) {\n          Utils.logger.log('api already loaded!');\n          self.apiLoaded = true;\n          resolve();\n        } else {\n          Utils.logger.log('setting map init callback');\n\n          window[self.getInitCallbackFnName()] = function () {\n            Utils.logger.log('map init callback: ', self.getInitCallbackFnName());\n            delete window[self.getInitCallbackFnName()];\n            self.apiLoaded = true;\n            resolve();\n          };\n\n          Utils.logger.log('adding bing api to document head url: ', self.getMapApiUrl());\n          let tag = document.createElement('script');\n          tag.type = 'text/javascript';\n          tag.src = self.getMapApiUrl();\n          tag.async = true;\n          tag.defer = true;\n\n          tag.onerror = function (event) {\n            delete window[self.getInitCallbackFnName()];\n            reject(event);\n          };\n\n          document.head.append(tag);\n        }\n      });\n    },\n\n    loadModule(name) {\n      let self = this;\n      let normalizedName = (name || '').toLowerCase().trim();\n      return new Promise((resolve, reject) => {\n        if (!normalizedName) {\n          reject('A module name must be specified');\n        } else if (!self.libLoaded()) {\n          reject('This function can only be called after the Bing Map library has been loaded');\n        } else {\n          let loadedModules = Utils.loadedModules;\n\n          if (!loadedModules) {\n            loadedModules = [];\n            Utils.loadedModules = loadedModules;\n          }\n\n          if (loadedModules.item.indexOf(normalizedName) > -1) {\n            Utils.logger.log('Map module ' + normalizedName + ' already loaded, resolving...');\n            resolve();\n          } else {\n            Microsoft.Maps.loadModule(name, {\n              callback() {\n                Utils.logger.log('Map module ' + normalizedName + ' successfully loaded!');\n                loadedModules.item.push(normalizedName);\n                resolve();\n              },\n\n              errorCallback(message) {\n                Utils.logger.warn('Map module ' + normalizedName + ' loading failed!');\n                reject(message);\n              }\n\n            });\n          }\n        }\n      });\n    },\n\n    draw() {\n      this.render();\n    },\n\n    render() {\n      let self = this;\n      return new Promise((resolve, reject) => {\n        self.rendering = this;\n        let map = self.getItem(); // if the map already exists, destroy it first so we can re-render\n        // we are doing this when we add a watcher on the mapOptions property\n        // since many of the map options can only be set via the Bing Map Constructor\n        // TODO: add property checking to the mapOptions watcher to only re-render map if\n        //       an option changed that is required in the map constructor\n\n        if (map) {\n          self.destroy();\n        }\n\n        Promise.all([self.loadApi(), self.$nextTick()]).then(() => {\n          map = self.setItem(new Microsoft.Maps.Map(self.$refs.mapContainer, self.mapOptions)); // bing maps will fire the viewchangeend event when the map is first drawn\n          // let's listen for this event to trigger the setting of our initialized property\n          // which will enable the slot and allow any child components to be created and rendered\n\n          Microsoft.Maps.Events.addOne(map, 'viewchangeend', () => {\n            self.initialized = true;\n          });\n          self.registerEvents();\n          resolve();\n        }).catch(function (err) {\n          reject(err);\n        }).finally(() => {\n          self.rendering = false;\n        });\n      });\n    },\n\n    destroy() {\n      this.initialized = false;\n      let map = this.getItem();\n\n      if (map && typeof map.dispose === 'function') {\n        map.dispose();\n        this.setItem(null);\n      }\n    }\n\n  },\n\n  mounted() {\n    Utils.logger.log('mounted lifecycle hook, rendering map...');\n    this.draw();\n  },\n\n  beforeDestroy() {\n    Utils.logger.log('beforeDestroy lifecycle hook, destroying map...');\n    let self = this;\n    self.destroying = true;\n    self.unRegisterEvents().then(self.destroy).finally(() => {\n      self.destroying = false;\n    });\n  },\n\n  activated() {\n    Utils.logger.log('map activated lifecycle hook, checking criteria for rendering map...');\n\n    if (!this.rendering && !this.getItem()) {\n      Utils.logger.log('map component activated from deactivated state, rendering map...');\n      this.draw();\n    } else {\n      Utils.logger.log('map component activated from initial mounted stated, no action performed here since already performed in mounted hook');\n    }\n  },\n\n  deactivated() {\n    Utils.logger.log('deactivated lifecyle hook, destroying map...');\n    this.unRegisterEvents().then(this.destroy);\n  }\n\n};"
+          "source": "//\n//\n//\n//\n//\n//\n//\n//\nconst mapEvents = Object.freeze(['click', 'dblclick', 'mapresize', 'maptypechanged', 'mousedown', 'mousemove', 'mouseout', 'mouseover', 'mouseup', 'mousewheel', 'rightclick', 'viewchange', 'viewchangeend', 'viewchangestart']);\nimport ComponentBase from '../mixins/component-base.vue';\nimport Config from '../config.js';\nimport Utils from '../utils.js';\nimport BingConversions from '../services/bing-conversions.js';\nexport default {\n  name: 'bing-map',\n  mixins: [ComponentBase],\n  props: {\n    credentials: {\n      type: String,\n      required: true\n    },\n    options: {\n      type: Object,\n      required: false,\n\n      default() {\n        return {};\n      }\n\n    }\n  },\n\n  data() {\n    return {\n      itemType: 'map',\n      rendering: false,\n      apiLoaded: false,\n      allowedEvents: mapEvents\n    };\n  },\n\n  computed: {\n    mapOptions() {\n      if (!this.apiLoaded) {\n        return {};\n      }\n\n      let source = this.options;\n      let target = {};\n\n      for (var prop in source) {\n        if (source.hasOwnProperty(prop)) {\n          switch (prop) {\n            case 'center':\n              target[prop] = BingConversions.toMapLocation(source[prop]);\n              break;\n\n            case 'navigationBarOrientation':\n              target[prop] = BingConversions.toNavigationBarOrientation(source[prop]);\n              break;\n\n            case 'mapTypeId':\n            case 'supportedMapTypes':\n              target[prop] = BingConversions.toMapTypeId(source[prop]);\n              break;\n\n            default:\n              target[prop] = source[prop];\n              break;\n          }\n        }\n      }\n\n      return target;\n    }\n\n  },\n\n  provide() {\n    return {\n      getMap: this.getItem,\n      loadModule: this.loadModule\n    };\n  },\n\n  methods: {\n    libLoaded() {\n      return !!(window.Microsoft && window.Microsoft.Maps && window.Microsoft.Maps.Map);\n    },\n\n    getInitCallbackFnName() {\n      return 'mapInitializeCallback_' + this._uid;\n    },\n\n    getMapApiUrl() {\n      var bingMapUrl = Config.bingApiUrl;\n      return bingMapUrl.replace('{callback}', this.getInitCallbackFnName()).replace('{credentials}', this.credentials);\n    },\n\n    loadApi() {\n      let self = this;\n      Utils.logger.log('loading api...');\n      return new Promise((resolve, reject) => {\n        if (self.libLoaded()) {\n          Utils.logger.log('api already loaded!');\n          self.apiLoaded = true;\n          resolve();\n        } else {\n          Utils.logger.log('setting map init callback');\n\n          window[self.getInitCallbackFnName()] = function () {\n            Utils.logger.log('map init callback: ', self.getInitCallbackFnName());\n            delete window[self.getInitCallbackFnName()];\n            self.apiLoaded = true;\n            resolve();\n          };\n\n          Utils.logger.log('adding bing api to document head url: ', self.getMapApiUrl());\n          let tag = document.createElement('script');\n          tag.type = 'text/javascript';\n          tag.src = self.getMapApiUrl();\n          tag.async = true;\n          tag.defer = true;\n\n          tag.onerror = function (event) {\n            delete window[self.getInitCallbackFnName()];\n            reject(event);\n          };\n\n          document.head.append(tag);\n        }\n      });\n    },\n\n    loadModule(name) {\n      let self = this;\n      let normalizedName = (name || '').toLowerCase().trim();\n      return new Promise((resolve, reject) => {\n        if (!normalizedName) {\n          reject('A module name must be specified');\n        } else if (!self.libLoaded()) {\n          reject('This function can only be called after the Bing Map library has been loaded');\n        } else {\n          let loadedModules = Utils.loadedModules;\n\n          if (!loadedModules) {\n            loadedModules = [];\n            Utils.loadedModules = loadedModules;\n          }\n\n          if (loadedModules.item.indexOf(normalizedName) > -1) {\n            Utils.logger.log('Map module ' + normalizedName + ' already loaded, resolving...');\n            resolve();\n          } else {\n            Microsoft.Maps.loadModule(name, {\n              callback() {\n                Utils.logger.log('Map module ' + normalizedName + ' successfully loaded!');\n                loadedModules.item.push(normalizedName);\n                resolve();\n              },\n\n              errorCallback(message) {\n                Utils.logger.warn('Map module ' + normalizedName + ' loading failed!');\n                reject(message);\n              }\n\n            });\n          }\n        }\n      });\n    },\n\n    draw() {\n      this.render();\n    },\n\n    render() {\n      let self = this;\n      return new Promise((resolve, reject) => {\n        self.rendering = this;\n        let map = self.getItem(); // if the map already exists, destroy it first so we can re-render\n        // we are doing this when we add a watcher on the mapOptions property\n        // since many of the map options can only be set via the Bing Map Constructor\n        // TODO: add property checking to the mapOptions watcher to only re-render map if\n        //       an option changed that is required in the map constructor\n\n        if (map) {\n          self.destroy();\n        }\n\n        Promise.all([self.loadApi(), self.$nextTick()]).then(() => {\n          map = self.setItem(new Microsoft.Maps.Map(self.$refs.mapContainer, self.mapOptions)); // bing maps will fire the viewchangeend event when the map is first drawn\n          // let's listen for this event to trigger the setting of our initialized property\n          // which will enable the slot and allow any child components to be created and rendered\n\n          Microsoft.Maps.Events.addOne(map, 'viewchangeend', () => {\n            self.initialized = true;\n          });\n          self.registerEvents();\n          resolve();\n        }).catch(function (err) {\n          reject(err);\n        }).finally(() => {\n          self.rendering = false;\n        });\n      });\n    },\n\n    destroy() {\n      this.initialized = false;\n      let map = this.getItem();\n\n      if (map && typeof map.dispose === 'function') {\n        map.dispose();\n        this.setItem(null);\n      }\n    }\n\n  },\n\n  mounted() {\n    Utils.logger.log('mounted lifecycle hook, rendering map...');\n    this.draw();\n  },\n\n  beforeDestroy() {\n    Utils.logger.log('beforeDestroy lifecycle hook, destroying map...');\n    let self = this;\n    self.destroying = true;\n    self.unRegisterEvents().then(self.destroy).finally(() => {\n      self.destroying = false;\n    });\n  },\n\n  activated() {\n    Utils.logger.log('map activated lifecycle hook, checking criteria for rendering map...');\n\n    if (!this.rendering && !this.getItem()) {\n      Utils.logger.log('map component activated from deactivated state, rendering map...');\n      this.draw();\n    } else {\n      Utils.logger.log('map component activated from initial mounted stated, no action performed here since already performed in mounted hook');\n    }\n  },\n\n  deactivated() {\n    Utils.logger.log('deactivated lifecyle hook, destroying map...');\n    this.unRegisterEvents().then(this.destroy);\n  }\n\n};"
         },
         {
           "id": null,
